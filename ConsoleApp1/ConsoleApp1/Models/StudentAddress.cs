@@ -13,7 +13,6 @@ namespace ConsoleApp1.Models
         public string Address2 { get; set; }
         public string City { get; set; }
         public string State { get; set; }
-
         public Student Student { get; set; }
     }
 }
